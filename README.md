@@ -24,3 +24,6 @@ One will need to find the suitable stable diffusion model that suits the needs o
   We can use a freely available LLM for code generation for the website. Two possibilites are:
   * BigCode
   * StarCoder
+
+## Causal ML
+The issue is that designer wants to acquire a client by showing them initial designs of the website. 
