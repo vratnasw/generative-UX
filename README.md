@@ -17,3 +17,5 @@
 ## Free stable diffusion models
  *  Dreamlike Photoreal 2.0
  * Stable-Diffusion-v1-5
+
+One will need to find the suitable stable diffusion model that suits the needs of the client and the designer. What this amounts to is taking a stable diffusion model then fine tuning it with images from the designer. There is a substantial amount of models on HuggingFace that are free, many of which are fine-tuned already.
